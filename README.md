@@ -22,7 +22,7 @@ Python版本：
 Python 3.8 64-bit
 
 库版本：
-requests 2.26.0\n
+requests 2.26.0  
 beautifulsoup4 4.9.3
 
 ### 4	结语

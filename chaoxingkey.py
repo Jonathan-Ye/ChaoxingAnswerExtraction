@@ -1,6 +1,7 @@
 # 适用于超星学习通新版考试完成页面提取问题和答案保存为txt
 # 记得修改主函数path路径，存放html文件
 from bs4 import BeautifulSoup
+import requests
 
 # 分析单个页面，提取题目和问题
 # 返回（题目数量，题目标题于列表title，题目选项于列表choice，答案于列表key）且一一对应

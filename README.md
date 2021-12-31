@@ -1,5 +1,6 @@
 # ChaoxingAnswerExtraction
-## 基于Python的超星学习通考试页面的答案提取与合并项目
+## 基于Python的题目集爬虫
+
 2021年12月31日
 
 ### 1	项目背景

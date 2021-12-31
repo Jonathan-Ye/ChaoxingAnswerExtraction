@@ -20,8 +20,9 @@ Windows 10 21H1
 
 Python版本：
 Python 3.8 64-bit
+
 库版本：
-requests 2.26.0
+requests 2.26.0\n
 beautifulsoup4 4.9.3
 
 ### 4	结语
